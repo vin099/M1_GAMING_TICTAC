@@ -12,3 +12,7 @@ The main objective of the project is to learn C program.
 3. The first player to get 3 of her marks in a row (up, down, across, or diagonally) is the winner.
 4. When all 9 squares are full, the game is over.
 
+# 4W's and 1 H's
+## Why:
+1. To help children improve their concentration.
+2. It helps children develop strategy at an early age.
