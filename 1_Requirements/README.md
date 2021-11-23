@@ -26,8 +26,7 @@ The main objective of the project is to learn C program.
 2. Play the classic Tictac game for free online with one or two players.
 
 ## When:
-1. One can calculate financial costs anywhere.
-2. The project can be used when the financial calculations are required and the result will be obtained fastly.
+1. Tictac is an instance of an m,n,k-game, where two players alternate taking turns on an m×n board until one of them gets k in a row.
 
 ## How:
 1. By giving different amounts one can find their desired output.
