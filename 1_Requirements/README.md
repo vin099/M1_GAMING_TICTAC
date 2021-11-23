@@ -61,7 +61,6 @@ The main objective of the project is to learn C program.
 # High Level Requirements
 | ID   |      Description     |  Status |
 |----------|:-------------:|------:|
-
 | HLR_1 |    The user can input the value  | Implemented  |
 | HLR_2 |    Computer can input the value  | Implemented  |
 | HLR_3 |    The user can input next value | Implemented  |
