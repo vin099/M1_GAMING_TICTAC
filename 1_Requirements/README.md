@@ -29,8 +29,8 @@ The main objective of the project is to learn C program.
 1. Tictac is an instance of an m,n,k-game, where two players alternate taking turns on an m×n board until one of them gets k in a row.
 
 ## How:
-1. By giving different amounts one can find their desired output.
-2. It will be helpful in performing various calculations like LumpSum and SIP. This will give accurate results.
+1. The numbers 1 to 9 are used in this game.
+2. The words may be plotted on a tictac grid in such a way that a three-in-a-row line wins.
 
 # SWOT Analysis
 
