@@ -35,11 +35,11 @@ The main objective of the project is to learn C program.
 # SWOT Analysis
 
 ## Strengths
-1. Perform financial calculations easily
-2. It can calculate LumpSum and SIP calculations.
+1. Simple app.
+2. Make strategic moves to set up future wins.
 
 ## Weakness
-1. Can’t perform various other calculations.
+1. Doesn't have advanced features.
 
 ## Opportunities
 1. More financial calculations can be implemented further.
