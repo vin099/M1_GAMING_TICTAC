@@ -11,6 +11,16 @@ The main objective of the project is to learn C program.
 2. You are X, your friend (or the computer in this case) is O. Players take turns putting their marks in empty squares.
 3. The first player to get 3 of her marks in a row (up, down, across, or diagonally) is the winner.
 4. When all 9 squares are full, the game is over.
+5. Provides user interaction with the computer, provides taking turns.
+
+# State of art 
+   Computer itself makes a move as per the user's previous move.
+
+## Ageing time
+   Can be overcome within short time.
+   
+##  Ageing feature
+   Can be overcomed by advanced features.
 
 # 4W's and 1 H's
 ## Why:
