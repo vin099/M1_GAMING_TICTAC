@@ -58,6 +58,14 @@ The main objective of the project is to learn C program.
 ## Threats
 1. Advanced games which is available now.
 
+# High Level Requirements
+| ID   |      Description     |  Status |
+|----------|:-------------:|------:|
+
+| HLR_1 |    The user can input the value  | Implemented  |
+| HLR_2 |    Computer can input the value  | Implemented  |
+| HLR_3 |    The user can input next value | Implemented  |
+
 # Low Level Requirements
 | ID   |      Description     |  Status |
 |----------|:-------------:|------:|
