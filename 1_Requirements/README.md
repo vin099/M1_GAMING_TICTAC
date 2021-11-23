@@ -42,8 +42,8 @@ The main objective of the project is to learn C program.
 1. Doesn't have advanced features.
 
 ## Opportunities
-1. More financial calculations can be implemented further.
-2. GUI can be used to enhance the visual look of the calculator.
+1. Stepping step to make a feature oriented design app.
+2. To make a mistake and may therefore be the better.
 
 ## Threats
-1. Advanced featured calculators are already in the market.
+1. Advanced games which is available now.
