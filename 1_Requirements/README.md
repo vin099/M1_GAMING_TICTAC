@@ -23,7 +23,7 @@ The main objective of the project is to learn C program.
 
 ## Who:
 1. It can be used by investors.
-2. Can be used as a reference for advanced financial calculations.
+2. Play the classic Tictac game for free online with one or two players.
 
 ## When:
 1. One can calculate financial costs anywhere.
