@@ -77,6 +77,11 @@ The main objective of the project is to learn C program.
 | LLR_2 |  Input from the user  | Implemented  |
 | LLR_3 |  Exit the program  | Implemented  |
 
+# Behaviour diagram
+![Behaviour diagram](https://user-images.githubusercontent.com/94450629/143004150-e4cd7ba5-2e68-4cc1-b012-489326b41b9f.png)
+
+# structre diagram
+
 # Computer won
 ![computer won output](https://user-images.githubusercontent.com/94450629/143378365-c5b9b855-5932-419e-a573-3e469378e170.png)
 
