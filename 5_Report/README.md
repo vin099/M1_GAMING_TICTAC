@@ -80,7 +80,7 @@ The main objective of the project is to learn C program.
 # Behaviour diagram
 ![Behaviour diagram](https://user-images.githubusercontent.com/94450629/143004150-e4cd7ba5-2e68-4cc1-b012-489326b41b9f.png)
 
-# structre diagram
+# structure diagram
 ![Structure diagram](https://user-images.githubusercontent.com/94450629/143004252-a6b1f837-e215-4d42-ae4c-d771110516bc.png)
 
 ## Start:
