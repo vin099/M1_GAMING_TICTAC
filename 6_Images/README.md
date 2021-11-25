@@ -10,6 +10,9 @@
 ## Again player choose number:
 ![Image 4](https://user-images.githubusercontent.com/94450629/143388646-be416eb3-6015-4c74-a3cd-73cfc65eb60c.png)
 
+## Again computer choose number:
+![Image 5](https://user-images.githubusercontent.com/94450629/143389539-1eab659c-69d7-4f64-85cd-e5fff44ceca0.png)
+
 ## Computer won:
 ![computer won output](https://user-images.githubusercontent.com/94450629/143388710-a2ac7645-0fec-4d7a-ae11-4aab0a6d3a9c.png)
 
