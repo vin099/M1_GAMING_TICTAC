@@ -13,8 +13,8 @@
 ## Again computer choose number:
 ![Image 5](https://user-images.githubusercontent.com/94450629/143389539-1eab659c-69d7-4f64-85cd-e5fff44ceca0.png)
 
-## Computer won:
+## Computer won output:
 ![computer won output](https://user-images.githubusercontent.com/94450629/143388710-a2ac7645-0fec-4d7a-ae11-4aab0a6d3a9c.png)
 
-## User won:
+## User won output:
 ![user won output](https://user-images.githubusercontent.com/94450629/143388759-e9b11a4b-3d2d-46a4-8c18-c6c9852d8534.png)
