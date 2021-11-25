@@ -98,8 +98,8 @@ The main objective of the project is to learn C program.
 ## Again computer choose number:
 ![Image 5](https://user-images.githubusercontent.com/94450629/143389539-1eab659c-69d7-4f64-85cd-e5fff44ceca0.png)
 
-# Computer won
+# Computer won output:
 ![computer won output](https://user-images.githubusercontent.com/94450629/143378365-c5b9b855-5932-419e-a573-3e469378e170.png)
 
-# User won
+# User won output:
 ![user won output](https://user-images.githubusercontent.com/94450629/143378388-5fcc5c7c-cdc1-46d9-816c-46edeaa9da2e.png)
